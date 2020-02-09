@@ -5,7 +5,7 @@ draft: true
 
 ## Upcoming events
 
-|       Date      |                   Event                    | Approx timings | River restriction or closure**? |                          Details                          |
+|       Date      |                   Event                    | Approx timings | River restriction or closure[^*]?  |                          Details                          |
 | --------------- | ------------------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------- |
 | Fri 21-Feb-2020 | Torpids (Rowing on)                        |                |                                 |                                                           |
 | Sun 23-Feb-2020 | Torpids (Rowing on backup)                 |                |                                 |                                                           |
@@ -25,12 +25,9 @@ draft: true
 | Sat 19-Sep-2020 | Isis sculls (date TBC with British Rowing) |                |                                 | http://oxfordrowingclub.org.uk/isis-sculls/               |
 ## Past events
 
-|       Date      |                   Event                    | Approx timings | River restriction or closure**? |                          Details                          |
+|       Date      |                   Event                    | Approx timings | River restriction or closure[^*]? |                          Details                          |
 | --------------- | ------------------------------------------ | -------------- | ------------------------------- | --------------------------------------------------------- |
 | Sun 26-Jan-2020 | Isis Winter League                         | 1300-1700      | Restriction                     |                                                           |
 | Sun 09-Feb-2020 | Isis Winter League                         | 1300-1700      | Restriction                     |                                                           |
 
-** A _river restriction_ is granted by the EA and gives permission to hold up river traffic for a short period of time (and e.g. when marshalling ensure a clear navigation channel to other users)
-
-You can see the latest Thames river restriction and closures here: https://www.gov.uk/guidance/river-thames-conditions-closures-restrictions-and-lock-closures
-    
+[^*]: A _river restriction_ is granted by the EA and gives permission to hold up river traffic for a short period of time (and e.g. when marshalling ensure a clear navigation channel to other users). You can see the latest Thames river restriction and closures here: https://www.gov.uk/guidance/river-thames-conditions-closures-restrictions-and-lock-closures
