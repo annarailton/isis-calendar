@@ -20,7 +20,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -36,7 +36,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Isis Events 2020"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Events on the Isis, Oxford"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
