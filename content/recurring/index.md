@@ -1,6 +1,6 @@
 ---
 title: "Recurring events"
-draft: true
+draft: false
 ---
 |       Dates       | Time of day |           Event            |    Location    |
 | ----------------- | ----------- | -------------------------- | -------------- |
