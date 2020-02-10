@@ -11,7 +11,7 @@ paginate = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -60,3 +60,7 @@ paginate = 5
         identifier = "recurring"
         name = "Recurring events"
         url = "/recurring"
+      [[languages.en.menu.main]]
+        identifier = "restrictions"
+        name = "Recurring restrictions"
+        url = "/restrictions"
