@@ -7,12 +7,12 @@ draft: false
 
 |    Date    |                   Event                    | Approx timings | River restriction or closure[^*]? |                                      Details                                      |
 | ---------- | ------------------------------------------ | -------------- | --------------------------------- | --------------------------------------------------------------------------------- |
-| Fri 21 Feb | Torpids (Rowing on)                        |                |                                   |                                                                                   |
-| Sun 23 Feb | Torpids (Rowing on backup)                 |                |                                   |                                                                                   |
-| Wed 26 Feb | Torpids                                    |                | Restriction                       | [OURCs](https://ourcs.co.uk/)                                                     |
-| Thu 27 Feb | Torpids                                    |                | Restriction                       |                                                                                   |
-| Fri 28 Feb | Torpids                                    |                | Restriction                       |                                                                                   |
-| Sat 29 Feb | Torpids                                    |                | Restriction                       |                                                                                   |
+| Fri 21 Feb | Torpids (Rowing on)                        | 1300-1500+     |                                   |                                                                                   |
+| Sun 23 Feb | Torpids (Rowing on backup)                 | 1300-1500+     |                                   |                                                                                   |
+| Wed 26 Feb | Torpids                                    | 1130-1730      | Restriction                       | Divisions every 30 mins, [OURCs](https://ourcs.co.uk/)                                                     |
+| Thu 27 Feb | Torpids                                    | 1130-1730      | Restriction                       |                                                                                   |
+| Fri 28 Feb | Torpids                                    | 1130-1730      | Restriction                       |                                                                                   |
+| Sat 29 Feb | Torpids                                    | 1130-1730      | Restriction                       |                                                                                   |
 | Sat 15 Apr | Oxford City Royal Regatta                  |                | Restriction (?)                   | [CORC Regatta](http://oxfordrowingclub.org.uk/oxford-city-royal-regatta/)         |
 | Sun 16 Apr | Oxford City Royal Regatta                  |                | Restriction (?)                   |                                                                                   |
 | Sun 26 Apr | Oxford City Bumps                          | 0900-1730      | Restriction (?)                   | [CORC Bumps](http://oxfordrowingclub.org.uk/oxford-city-bumping-races/)           |
