@@ -30,4 +30,4 @@ draft: false
 | Sun 26 Jan | Isis Winter League                         | 1300-1700      | Restriction                     |                                                           |
 | Sun 09 Feb | Isis Winter League                         | 1300-1700      | Restriction                     |                                                           |
 
-[^*]: A _river restriction_ is granted by the EA and gives permission to hold up river traffic for a short period of time (and e.g. when marshalling ensure a clear navigation channel to other users). You can see the latest Thames river restriction and closures here: https://www.gov.uk/guidance/river-thames-conditions-closures-restrictions-and-lock-closures
+[^*]: A _river restriction_ is granted by the EA and gives permission to hold up river traffic for a short period of time (and officals when marshalling ensure a clear navigation channel to other users). You can see the latest Thames river restriction and closures here: https://www.gov.uk/guidance/river-thames-conditions-closures-restrictions-and-lock-closures
