@@ -33,4 +33,3 @@ draft: false
 | ~~Fri 21 Feb~~ | ~~Torpids (Rowing on)~~        | ~~1300-1500+~~ | ~~Folly - Iffley~~ | CANCELLED | CANCELLED |
 | ~~Sun 23 Feb~~ | ~~Torpids (Rowing on backup)~~ | ~~1300-1500+~~ | ~~Folly - Iffley~~ | CANCELLED | CANCELLED |
 
-Some of these event will have river restrictions in place. A river restriction is granted by the EA and gives permission to hold up river traffic for a short period of time (and officals when marshalling ensure a clear navigation channel to other users). You can see the latest Thames river restriction and closures here: https://www.gov.uk/guidance/river-thames-conditions-closures-restrictions-and-lock-closures
