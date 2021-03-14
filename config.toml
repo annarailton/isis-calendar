@@ -35,7 +35,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Isis Events 2020"
+    title = "Isis Events 2021"
     subtitle = "Events on the Isis, Oxford"
     keywords = ""
     copyright = ""
@@ -44,7 +44,7 @@ paginate = 5
     readOtherPosts = ""
 
     [languages.en.params.logo]
-      logoText = "Isis Events 2020"
+      logoText = "Isis Events 2021"
       logoHomeLink = "/"
 
     [languages.en.menu]
