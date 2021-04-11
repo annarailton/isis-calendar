@@ -60,16 +60,11 @@ paginate = 5
         weight = 2
       [[languages.en.menu.main]]
         identifier = "recurring"
-        name = "Recurring events"
+        name = "Recurring events & restrictions"
         url = "/recurring"
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "restrictions"
-        name = "Recurring restrictions"
-        url = "/restrictions"
-        weight = 4
       [[languages.en.menu.main]]
         identifier = "EA_restrictions"
         name = "Note on EA restrictions"
         url = "/ea_restrictions"
-        weight = 5
+        weight = 4
