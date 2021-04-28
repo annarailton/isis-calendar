@@ -2,6 +2,8 @@
 
 A _very_ simple Hugo-powered site that keeps all the info about what's happening on the Thames. 
 
+The website lives at http://isiscalendar.org.uk/
+
 To get something added or for corrections to the content please open a PR or email info@isiscalendar.org.uk
 
 ## Location of data
