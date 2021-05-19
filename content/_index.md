@@ -7,8 +7,7 @@ draft: false
 
 | Date | Event | Approx timings | Location | Details |
 | - | - | - | - | - | 
-| Sun 16th May | Isis Spring League A | 1200 - closing | Folly - Iffley | Division times 1330, 1405, 1440, 1515, 1550, 1625, 1700, 1735 |
-| Sat 29th May | Oriel Regatta | 0800 - closing | Folly - Donnington (?) | Provisional - see [OURCs](https://ourcs.co.uk/) |
+| ~Sat 29th May~ | ~Oriel Regatta~ | | | CANCELLED |
 | Sun 30th May | Isis Spring League B | 1200 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
 | Sat 5th Jun | Torpids (Rowing on) | 0830 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
 | Tue 8th Jun | Torpids | 1100 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
