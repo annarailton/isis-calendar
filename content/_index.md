@@ -9,8 +9,8 @@ draft: false
 | - | - | - | - | - | 
 | ~~Sat 29th May~~ | ~~Oriel Regatta~~ | | | CANCELLED |
 | Sun 30th May | Isis Spring League B | Division times: 1330, 1410, 1450, 1530, 1610, 1650, 1730 | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
-| Sat 5th Jun | Torpids (Rowing on) | 0830 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
-| Tue 8th Jun | Torpids | 1100 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
+| Sat 5th Jun | Torpids (Rowing on) | Divisions 1415, 1445, 1515, 1545, 1615, 1645 | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
+| Tue 8th Jun | Torpids | 1100 - closing | Folly - Iffley | See [OURCs](https://ourcs.co.uk/) |
 | Wed 9th Jun | Torpids | 1100 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
 | Thu 10th Jun | Torpids | 1100 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
 | Fri 11th Jun | Torpids | 1100 - closing | Folly - Iffley | Provisional - see [OURCs](https://ourcs.co.uk/) |
