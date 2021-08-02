@@ -14,7 +14,6 @@ draft: false
 | Sat 19th Jun | Oriel Regatta | 1130-1800 | Longbridges - Folly | https://www.orielrowing.org/ |
 | Sat 19th Jun | Oriel Regatta | 1130-1800 | Folly - Iffley | https://www.orielrowing.org/ |
 | Sat 21st Aug | CORC Adaptive Invitational Event | 1100-1600 | Haystacks corner - Donnington bridge | See [CORC](http://oxfordrowingclub.org.uk/adaptive/) |
->>>>>>> Add CORC adaptive event
 | Mon 30th Aug | Falcon Hasler | 0930-1430 | Sandford - Osney | Provisional - main racing between 1000-1100 and 1200-1330; most disruption will be around the starts at Longbridges at 1000 and 1200 |
 | Sun 5th Sep | Oxford Classic Mile Swim | 1100 - ? | Folly - Donnington | [Website](https://www.swimoxford.co.uk/event-1mile-2021.php) Starts at Donnington bridge, first wave 11am |
 | Sat 11th Sep | Isis Sculls | TBD | Folly - Iffley | Provisional - see [CORC](http://oxfordrowingclub.org.uk/isis-sculls/) |
