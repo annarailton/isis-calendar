@@ -8,8 +8,8 @@ draft: false
 | Date | Event | Approx timings | Location | Details |
 | - | - | - | - | - | 
 | Sun 7th Nov | Autumn IVs  | 1200-1800 | Folly - Iffley |  |
-| Fri 19th Nov | Nepthys Regatta  | 1300-1630 | Folly - Iffley | Buoy laying from 1200, racing from 1330 |
-| Sat 20th Nov | Nepthys Regatta  | 1000-1630 | Folly - Iffley | Buoy laying from 1000, racing from 1100 |
+| Fri 19th Nov | Nepthys Regatta  | 1300-1630 | Folly - Longbridges | Buoy laying from 1200, racing from 1330 |
+| Sat 20th Nov | Nepthys Regatta  | 1000-1630 | Folly - Longbridges | Buoy laying from 1000, racing from 1100 |
 | Wed 24th Nov | Christchurch Regatta  | 1200-1700 | Folly - Iffley | (Provisional) |
 | Thu 25th Nov | Christchurch Regatta  | 1200-1700 | Folly - Iffley | (Provisional) |
 | Fri 26th Nov | Christchurch Regatta  | 1200-1700 | Folly - Iffley | (Provisional) |
