@@ -10,8 +10,8 @@ draft: false
 | Sun 23rd Jan | Isis Winter League C  | 1300-1700 | Folly - Iffley |  |
 | Sun 6th Feb | Isis Winter League D  | 1300-1700 | Folly - Iffley |  |
 | Sun 20th Feb | Isis Winter League E  | 1300-1700 | Folly - Iffley |  |
-| Sat 26th Feb | Torpids Rowing On | 1100-1730 | Folly - Iffley |  |
-| Sun 27th Feb | Torpids Rowing On (backup)  | 1100-1700 | Folly - Iffley |  |
+| Sat 26th Feb | Torpids Rowing On | 1300-1730 | Folly - Iffley |  |
+| Sun 27th Feb | Torpids Rowing On (backup)  | 1300-1700 | Folly - Iffley |  |
 | Wed 2nd Mar | Torpids | 1200-1730 | Folly - Iffley |  |
 | Thu 3rd Mar | Torpids | 1200-1730 | Folly - Iffley |  |
 | Fri 4th Mar | Torpids | 1200-1730 | Folly - Iffley |  |
